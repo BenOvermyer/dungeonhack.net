@@ -8,4 +8,4 @@ I'm not actually sure what this gemlog will be about. However, my tentative plan
 
 I may also write about video games I'm playing. We'll see.
 
-=> gemini://dungeonhack.net/index.gmi Back to home
+=> /index.gmi Back to home
