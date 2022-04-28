@@ -1,0 +1,7 @@
+# Dungeonhack
+
+What does "Dungeonhack" mean? Well, originally I think it referred just to a specific computer game released in the '90s. In the decades since, I've come to think of it as an alternative term for a dungeon crawl. I think I'm the only one that does so, so here we are!
+
+## Gemlog
+
+=> gemini://dungeonhack.net/origin.gmi Origin

@@ -1,0 +1,11 @@
+# Origin
+
+Written 2022-04-28
+
+This is my "origin" post, which is just here to declare a starting point for my gemlog.
+
+I'm not actually sure what this gemlog will be about. However, my tentative plan is to write about tabletop gaming here. This will probably include thoughts on games I play in, but it'll mostly be about games I'm designing and such.
+
+I may also write about video games I'm playing. We'll see.
+
+=> gemini://dungeonhack.net/index.gmi Back to home
