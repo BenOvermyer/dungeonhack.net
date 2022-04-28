@@ -4,4 +4,4 @@ What does "Dungeonhack" mean? Well, originally I think it referred just to a spe
 
 ## Gemlog
 
-=> gemini://dungeonhack.net/origin.gmi Origin
+=> /origin.gmi Origin
