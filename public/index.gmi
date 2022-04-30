@@ -4,4 +4,5 @@ What does "Dungeonhack" mean? Well, originally I think it referred just to a spe
 
 ## Gemlog
 
-=> /origin.gmi Origin
+=> /nomanssky.gmi No Man's Sky (Apr. 30, 2022)
+=> /origin.gmi Origin (Apr. 28, 2022)
