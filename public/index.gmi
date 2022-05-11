@@ -4,5 +4,6 @@ What does "Dungeonhack" mean? Well, originally I think it referred just to a spe
 
 ## Gemlog
 
+=> /finishedshadowbringers.gmi Finished Shadowbringers (May 11, 2022)
 => /nomanssky.gmi No Man's Sky (Apr. 30, 2022)
 => /origin.gmi Origin (Apr. 28, 2022)
